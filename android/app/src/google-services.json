@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825559016143",
+    "project_id": "sign-ce1ac",
+    "storage_bucket": "sign-ce1ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825559016143:android:b880e653b8d185fe164dba",
+        "android_client_info": {
+          "package_name": "com.example.google_sign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825559016143-mhasi9j5d44hgmuiu80a5cunklk8bl4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyVCvRLnCzkFtITSPBiVPyfD5RdS25Vc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825559016143-mhasi9j5d44hgmuiu80a5cunklk8bl4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
